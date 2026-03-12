@@ -1,4 +1,4 @@
-# Monte Carlo Option Pricer (C++)
+# Monte Carlo Option Pricer 
 
 A high-performance European option pricer implementing Monte Carlo simulation with three execution modes — serial, `std::thread`, and OpenMP — benchmarked against analytical Black-Scholes pricing.
 
