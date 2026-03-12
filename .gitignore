@@ -104,3 +104,4 @@ notebook.ipynb
 poetry.lock
 pyproject.toml
 scr/bootstrap.py
+git
